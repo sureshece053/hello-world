@@ -3,9 +3,19 @@
 <body>
 
 <h1 style="background-color:powderblue;">Happy Diwali Wishes 2022</h1>
-<p style="background-color:AntiqueWhite;">Let us celebrate the Diwali festival with smiles on our faces and joy in our hearts.Diwali greetings to everyone...good night..good morning to every one...</p>
+<p style="background-color:AntiqueWhite;">Let us celebrate the Diwali festival with smiles on our faces and joy in our hearts.Diwali greetings to everyone...</p>
 
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:60px;">Happy Diwali Wishes 2022</h1>
+
+<p>Let us celebrate the Diwali festival with smiles on our faces and joy in our hearts.Diwali greetings to everyone...</p>
+
+</body>
+</html>
 
