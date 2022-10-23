@@ -1,2 +1,2 @@
-<h1> Hello friends i done this docker-project in myself so i'm really so happy now ...!!! </h1>
+<h1 style="color: #2ecc71"> "HAPPY DIWALI FRIENDS..."...</h1>
 
