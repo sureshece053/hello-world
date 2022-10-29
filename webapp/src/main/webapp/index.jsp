@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1 style="font-size:80px;">Happy Diwali Wishes 2022</h1>
+<h1 style="font-size:80px;">HII GUYS GOOD EVENING TO EVERY ONE..</h1>
 
-<p>Let us celebrate the Diwali festival with smiles on our faces and joy in our hearts.Diwali greetings to everyone..</p>
+<p>Let's go for tea..</p>
 
 </body>
 </html>
